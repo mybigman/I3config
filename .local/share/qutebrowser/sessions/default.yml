@@ -1,0 +1,38 @@
+windows:
+- active: true
+  geometry: !!binary |
+    AdnQywADAAAAAAAFAAAAGwAABVAAAAL6AAAABQAAABsAAAVQAAAC+gAAAAAAAAAABVYAAAAFAAAA
+    GwAABVAAAAL6
+  tabs:
+  - active: true
+    history:
+    - pinned: false
+      title: DuckDuckGo — Privacy, simplified.
+      url: https://start.duckduckgo.com/
+    - pinned: false
+      title: google at DuckDuckGo
+      url: https://duckduckgo.com/?q=google&ia=web
+    - pinned: false
+      title: Google
+      url: https://www.google.com/
+    - pinned: false
+      title: 'Acceso: Cuentas de Google'
+      url: https://accounts.google.com/signin/v2/identifier?hl=es-419&passive=true&continue=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+    - pinned: false
+      title: 'Acceso: Cuentas de Google'
+      url: https://accounts.google.com/signin/v2/challenge/pwd?hl=es-419&passive=true&continue=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin&cid=1&navigationDirection=forward&TL=AM3QAYbuDQfOprQOnX-VL1vGwHNAid8RdFnN-8Sr5dcft5h1z0uppo9hBlgLhvD5
+    - pinned: false
+      title: Google
+      url: https://www.google.com/
+    - original-url: https://www.google.com/
+      pinned: false
+      title: Navegador web Google Chrome
+      url: https://www.google.com/chrome/?hl=es&brand=RLNS&utm_source=es-hpp&utm_medium=hpp&utm_campaign=es
+    - active: true
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 600
+      title: Navegador web Google Chrome
+      url: https://www.google.com/intl/es/chrome/
+      zoom: 1.0

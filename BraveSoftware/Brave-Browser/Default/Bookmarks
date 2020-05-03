@@ -1,0 +1,55 @@
+{
+   "checksum": "43f52b1880cdaa8eb4e3d89ff88d98f9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13232777107227507",
+               "guid": "5068f745-3bff-49a2-af8d-3ef53fbb9c6e",
+               "id": "5",
+               "name": "Vifm - Color Schemes",
+               "type": "url",
+               "url": "https://vifm.info/colorschemes.shtml"
+            }, {
+               "date_added": "13232777147195623",
+               "guid": "d2c4b104-bace-4015-a3ee-6994d35b288a",
+               "id": "7",
+               "name": "Vifm - Manual",
+               "type": "url",
+               "url": "https://vifm.info/manual.shtml"
+            } ],
+            "date_added": "13232777138020265",
+            "date_modified": "13232777147195623",
+            "guid": "006f3cdf-d210-46ee-81d8-8f5c1e70ffaf",
+            "id": "6",
+            "name": "VIFM",
+            "type": "folder"
+         } ],
+         "date_added": "13232771916238301",
+         "date_modified": "13232777107227507",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13232771916238306",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13232771916238308",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

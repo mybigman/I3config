@@ -1,0 +1,69 @@
+2020/05/01-13:34:42.655 a53e Reusing MANIFEST /home/Caronte-/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2020/05/01-13:34:42.655 a53e Recovering log #85
+2020/05/01-13:34:42.655 a53e Reusing old log /home/Caronte-/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000085.log 
+2020/05/01-13:36:02.826 aa4a Level-0 table #90: started
+2020/05/01-13:36:02.952 aa4a Level-0 table #90: 18642 bytes OK
+2020/05/01-13:36:02.995 aa4a Delete type=0 #85
+2020/05/01-13:40:45.250 aa4a Level-0 table #92: started
+2020/05/01-13:40:45.295 aa4a Level-0 table #92: 55369 bytes OK
+2020/05/01-13:40:45.345 aa4a Delete type=0 #89
+2020/05/01-18:47:27.538 aa4a Level-0 table #94: started
+2020/05/01-18:47:27.578 aa4a Level-0 table #94: 14463 bytes OK
+2020/05/01-18:47:27.626 aa4a Delete type=0 #91
+2020/05/01-19:14:44.197 aa4a Level-0 table #96: started
+2020/05/01-19:14:44.336 aa4a Level-0 table #96: 60492 bytes OK
+2020/05/01-19:14:44.377 aa4a Delete type=0 #93
+2020/05/01-19:14:44.377 aa4a Compacting 4@0 + 1@1 files
+2020/05/01-19:14:44.481 aa4a Generated table #97@0: 1009 keys, 796868 bytes
+2020/05/01-19:14:44.481 aa4a Compacted 4@0 + 1@1 files => 796868 bytes
+2020/05/01-19:14:44.609 aa4a compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/01-19:14:44.610 aa4a Delete type=2 #92
+2020/05/01-19:14:44.610 aa4a Delete type=2 #87
+2020/05/01-19:14:44.610 aa4a Delete type=2 #90
+2020/05/01-19:14:44.610 aa4a Delete type=2 #94
+2020/05/01-19:14:44.610 aa4a Delete type=2 #96
+2020/05/01-19:14:48.525 aa4a Level-0 table #99: started
+2020/05/01-19:14:48.571 aa4a Level-0 table #99: 53858 bytes OK
+2020/05/01-19:14:48.615 aa4a Delete type=0 #95
+2020/05/01-19:37:00.769 aa4a Level-0 table #101: started
+2020/05/01-19:37:00.823 aa4a Level-0 table #101: 19788 bytes OK
+2020/05/01-19:37:00.869 aa4a Delete type=0 #98
+2020/05/01-19:40:10.657 aa4a Level-0 table #103: started
+2020/05/01-19:40:10.766 aa4a Level-0 table #103: 11150 bytes OK
+2020/05/01-19:40:10.808 aa4a Delete type=0 #100
+2020/05/01-22:28:41.922 aa4a Level-0 table #105: started
+2020/05/01-22:28:41.973 aa4a Level-0 table #105: 15214 bytes OK
+2020/05/01-22:28:42.017 aa4a Delete type=0 #102
+2020/05/01-22:28:42.017 aa4a Compacting 4@0 + 1@1 files
+2020/05/01-22:28:42.095 aa4a Generated table #106@0: 1041 keys, 803442 bytes
+2020/05/01-22:28:42.096 aa4a Compacted 4@0 + 1@1 files => 803442 bytes
+2020/05/01-22:28:42.139 aa4a compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/01-22:28:42.140 aa4a Delete type=2 #99
+2020/05/01-22:28:42.140 aa4a Delete type=2 #97
+2020/05/01-22:28:42.140 aa4a Delete type=2 #105
+2020/05/01-22:28:42.140 aa4a Delete type=2 #103
+2020/05/01-22:28:42.140 aa4a Delete type=2 #101
+2020/05/01-23:16:09.325 aa4a Level-0 table #108: started
+2020/05/01-23:16:09.383 aa4a Level-0 table #108: 16821 bytes OK
+2020/05/01-23:16:09.423 aa4a Delete type=0 #104
+2020/05/01-23:41:59.996 aa4a Level-0 table #110: started
+2020/05/01-23:42:00.046 aa4a Level-0 table #110: 56052 bytes OK
+2020/05/01-23:42:00.123 aa4a Delete type=0 #107
+2020/05/01-23:42:46.337 aa4a Level-0 table #112: started
+2020/05/01-23:42:46.474 aa4a Level-0 table #112: 52439 bytes OK
+2020/05/01-23:42:46.521 aa4a Delete type=0 #109
+2020/05/01-23:43:21.541 aa4a Level-0 table #114: started
+2020/05/01-23:43:21.582 aa4a Level-0 table #114: 49699 bytes OK
+2020/05/01-23:43:21.624 aa4a Delete type=0 #111
+2020/05/01-23:43:21.624 aa4a Compacting 4@0 + 1@1 files
+2020/05/01-23:43:21.738 aa4a Generated table #115@0: 1123 keys, 849955 bytes
+2020/05/01-23:43:21.738 aa4a Compacted 4@0 + 1@1 files => 849955 bytes
+2020/05/01-23:43:21.779 aa4a compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/01-23:43:21.779 aa4a Delete type=2 #106
+2020/05/01-23:43:21.779 aa4a Delete type=2 #114
+2020/05/01-23:43:21.779 aa4a Delete type=2 #112
+2020/05/01-23:43:21.779 aa4a Delete type=2 #110
+2020/05/01-23:43:21.779 aa4a Delete type=2 #108
+2020/05/02-00:14:29.094 aa4a Level-0 table #117: started
+2020/05/02-00:14:29.225 aa4a Level-0 table #117: 65939 bytes OK
+2020/05/02-00:14:29.269 aa4a Delete type=0 #113

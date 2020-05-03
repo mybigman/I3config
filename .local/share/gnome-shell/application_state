@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="0" last-seen="1588026944"/>
+    <application id="gnome-bluetooth-panel.desktop" score="0" last-seen="0"/>
+    <application id="rhythmbox.desktop" score="0" last-seen="1588029675"/>
+    <application id="org.freedesktop.GnomeAbrt.desktop" score="1" last-seen="1588050496"/>
+    <application id="yelp.desktop" score="0" last-seen="1588018018"/>
+    <application id="org.gnome.Terminal.desktop" score="1421" last-seen="1588030549"/>
+    <application id="rxvt-unicode.desktop" score="0" last-seen="1588027331"/>
+    <application id="brave-browser.desktop" score="266" last-seen="1588030538"/>
+    <application id="gnome-control-center.desktop" score="14" last-seen="1588050495"/>
+  </context>
+</application-state>

@@ -1,0 +1,15 @@
+2020/05/02-00:48:05.407 2e4ec Reusing MANIFEST /home/Caronte-/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/02-00:48:05.407 2e4ec Recovering log #127
+2020/05/02-00:48:05.407 2e4ec Reusing old log /home/Caronte-/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000127.log 
+2020/05/02-00:48:38.231 2c875 Level-0 table #132: started
+2020/05/02-00:48:38.348 2c875 Level-0 table #132: 1318 bytes OK
+2020/05/02-00:48:38.390 2c875 Delete type=0 #127
+2020/05/02-00:48:38.390 2c875 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/02-00:48:38.391 2c875 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 507 : 1
+2020/05/02-00:48:38.391 2c875 Compacting 1@1 + 1@2 files
+2020/05/02-00:48:38.437 2c875 Generated table #133@1: 20 keys, 1311 bytes
+2020/05/02-00:48:38.437 2c875 Compacted 1@1 + 1@2 files => 1311 bytes
+2020/05/02-00:48:38.489 2c875 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/02-00:48:38.490 2c875 Delete type=2 #132
+2020/05/02-00:48:38.490 2c875 Delete type=2 #129
+2020/05/02-00:48:38.490 2c875 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 507 : 1 .. (end); will stop at (end)

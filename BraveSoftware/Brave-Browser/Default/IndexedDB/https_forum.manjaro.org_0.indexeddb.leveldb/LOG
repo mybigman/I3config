@@ -1,0 +1,15 @@
+2020/05/02-00:19:58.473 2c40f Reusing MANIFEST /home/Caronte-/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/02-00:19:58.474 2c40f Recovering log #19
+2020/05/02-00:19:58.474 2c40f Reusing old log /home/Caronte-/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/000019.log 
+2020/05/02-00:20:49.254 2c875 Level-0 table #24: started
+2020/05/02-00:20:49.393 2c875 Level-0 table #24: 91947 bytes OK
+2020/05/02-00:20:49.502 2c875 Delete type=0 #19
+2020/05/02-00:20:49.503 2c875 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/02-00:20:49.503 2c875 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00`\x9a\xae@\x1dwB\x00\x01H\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00n\x00j\x00a\x00r\x00o\x00.\x00o\x00r\x00g\x00/\x00i\x00m\x00a\x00g\x00e\x00s\x00/\x00e\x00m\x00o\x00j\x00i\x00/\x00e\x00m\x00o\x00j\x00i\x00_\x00o\x00n\x00e\x00/\x00j\x00o\x00y\x00.\x00p\x00n\x00g\x00?\x00v\x00=\x006' @ 8744 : 1
+2020/05/02-00:20:49.504 2c875 Compacting 1@1 + 1@2 files
+2020/05/02-00:20:49.580 2c875 Generated table #25@1: 738 keys, 83197 bytes
+2020/05/02-00:20:49.580 2c875 Compacted 1@1 + 1@2 files => 83197 bytes
+2020/05/02-00:20:49.669 2c875 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/02-00:20:49.669 2c875 Delete type=2 #24
+2020/05/02-00:20:49.670 2c875 Delete type=2 #21
+2020/05/02-00:20:49.670 2c875 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00`\x9a\xae@\x1dwB\x00\x01H\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00n\x00j\x00a\x00r\x00o\x00.\x00o\x00r\x00g\x00/\x00i\x00m\x00a\x00g\x00e\x00s\x00/\x00e\x00m\x00o\x00j\x00i\x00/\x00e\x00m\x00o\x00j\x00i\x00_\x00o\x00n\x00e\x00/\x00j\x00o\x00y\x00.\x00p\x00n\x00g\x00?\x00v\x00=\x006' @ 8744 : 1 .. (end); will stop at (end)

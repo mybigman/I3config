@@ -1,0 +1,27 @@
+2020/05/02-00:16:03.060 2c410 Reusing MANIFEST /home/Caronte-/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2020/05/02-00:16:03.061 2c410 Recovering log #116
+2020/05/02-00:16:03.061 2c410 Reusing old log /home/Caronte-/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000116.log 
+2020/05/02-00:44:58.946 2ccc1 Level-0 table #120: started
+2020/05/02-00:44:59.052 2ccc1 Level-0 table #120: 16979 bytes OK
+2020/05/02-00:44:59.097 2ccc1 Delete type=0 #116
+2020/05/02-00:52:36.019 2ccc1 Level-0 table #122: started
+2020/05/02-00:52:36.057 2ccc1 Level-0 table #122: 75748 bytes OK
+2020/05/02-00:52:36.095 2ccc1 Delete type=0 #119
+2020/05/02-01:10:07.427 2ccc1 Level-0 table #124: started
+2020/05/02-01:10:07.480 2ccc1 Level-0 table #124: 18558 bytes OK
+2020/05/02-01:10:07.524 2ccc1 Delete type=0 #121
+2020/05/02-01:10:07.525 2ccc1 Compacting 4@0 + 1@1 files
+2020/05/02-01:10:07.636 2ccc1 Generated table #125@0: 1226 keys, 858698 bytes
+2020/05/02-01:10:07.637 2ccc1 Compacted 4@0 + 1@1 files => 858698 bytes
+2020/05/02-01:10:07.679 2ccc1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/05/02-01:10:07.679 2ccc1 Delete type=2 #124
+2020/05/02-01:10:07.679 2ccc1 Delete type=2 #115
+2020/05/02-01:10:07.679 2ccc1 Delete type=2 #122
+2020/05/02-01:10:07.679 2ccc1 Delete type=2 #120
+2020/05/02-01:10:07.680 2ccc1 Delete type=2 #117
+2020/05/02-01:34:38.157 2ccc1 Level-0 table #127: started
+2020/05/02-01:34:38.212 2ccc1 Level-0 table #127: 20648 bytes OK
+2020/05/02-01:34:38.255 2ccc1 Delete type=0 #123
+2020/05/02-01:57:55.943 2ccc1 Level-0 table #129: started
+2020/05/02-01:57:56.041 2ccc1 Level-0 table #129: 20190 bytes OK
+2020/05/02-01:57:56.084 2ccc1 Delete type=0 #126

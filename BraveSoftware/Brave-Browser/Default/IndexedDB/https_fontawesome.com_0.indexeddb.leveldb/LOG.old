@@ -1,0 +1,15 @@
+2020/05/01-19:09:53.910 17d7f Reusing MANIFEST /home/Caronte-/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/01-19:09:53.910 17d7f Recovering log #7
+2020/05/01-19:09:53.910 17d7f Reusing old log /home/Caronte-/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/000007.log 
+2020/05/01-19:10:23.662 b2dc Level-0 table #12: started
+2020/05/01-19:10:23.706 b2dc Level-0 table #12: 1350 bytes OK
+2020/05/01-19:10:23.751 b2dc Delete type=0 #7
+2020/05/01-19:10:23.751 b2dc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/01-19:10:23.751 b2dc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x05\x00s\x00t\x00a\x00t\x00e' @ 440 : 1
+2020/05/01-19:10:23.751 b2dc Compacting 1@1 + 1@2 files
+2020/05/01-19:10:23.795 b2dc Generated table #13@1: 53 keys, 1104 bytes
+2020/05/01-19:10:23.795 b2dc Compacted 1@1 + 1@2 files => 1104 bytes
+2020/05/01-19:10:23.839 b2dc compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/05/01-19:10:23.840 b2dc Delete type=2 #9
+2020/05/01-19:10:23.840 b2dc Delete type=2 #12
+2020/05/01-19:10:23.840 b2dc Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x05\x00s\x00t\x00a\x00t\x00e' @ 440 : 1 .. (end); will stop at (end)
